@@ -7,7 +7,7 @@
     <color name="toolbarcolor1">#FFFFFF</color>
     <color name="toolbarcolor2">#EEEEEE</color>
     <color name="appintorbackgroundcolor1">#FFFFFF</color>
-    <color name="appintrotextcolor1">#348C31</color>
-    <color name="indicatorcolor1">#348C31</color>
-    <color name="indicatorcolor2">#F8FFB5</color>
+    <color name="appintrotextcolor1">#000000</color>
+    <color name="indicatorcolor1">#f153c4</color>
+    <color name="indicatorcolor2">#000000</color>
 </resources>

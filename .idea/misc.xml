@@ -3,10 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/layout/activity_dashboard.xml" value="0.17395833333333333" />
+        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/drawable-v24/fitnessappintroicon.xml" value="0.2505" />
+        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/drawable/bottom_navigation_background.xml" value="0.2245" />
+        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/drawable/bottom_navigation_color_selector.xml" value="0.2245" />
+        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2505" />
+        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/layout/activity_calendar.xml" value="0.24479166666666666" />
+        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
         <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/layout/activity_main.xml" value="0.182518115942029" />
+        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/layout/activity_settings.xml" value="0.24479166666666666" />
         <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/layout/activity_splash_screen_1.xml" value="0.16" />
-        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/layout/activity_splash_screen_2.xml" value="0.25104166666666666" />
+        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/layout/activity_splash_screen_2.xml" value="0.2" />
+        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/layout/activity_stats.xml" value="0.24479166666666666" />
+        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/layout/activity_timer.xml" value="0.24479166666666666" />
+        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/layout/dashboard_drawer_layout_header.xml" value="0.25104166666666666" />
+        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/layout/mushroom_dashboard_drawer_layout_header.xml" value="0.25104166666666666" />
+        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/menu/menu_bottom_navigation_muhsroom_dashboard.xml" value="0.36666666666666664" />
+        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/menu/menu_drawer_dashboard.xml" value="0.24479166666666666" />
+        <entry key="..\:/DT User3 files/Downloads/Android apps/Android apps/Fitlend/app/src/main/res/menu/menu_drawer_mushroom_dashboard.xml" value="0.25104166666666666" />
       </map>
     </option>
   </component>

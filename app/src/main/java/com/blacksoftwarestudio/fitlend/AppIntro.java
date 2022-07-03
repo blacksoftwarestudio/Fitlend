@@ -14,11 +14,11 @@ public class AppIntro extends AppIntro2
 
         super.onCreate(savedInstanceState);
 
-        addSlide(AppIntroFragment.newInstance("Scan", "Scan and identify which plant it is", R.drawable.appintrologo, getResources().getColor(R.color.appintorbackgroundcolor1), getResources().getColor(R.color.appintrotextcolor1), getResources().getColor(R.color.appintrotextcolor1)));
-        addSlide(AppIntroFragment.newInstance("Read", "Read useful information about plants", R.drawable.appintrologo, getResources().getColor(R.color.appintorbackgroundcolor1), getResources().getColor(R.color.appintrotextcolor1), getResources().getColor(R.color.appintrotextcolor1)));
-        addSlide(AppIntroFragment.newInstance("Save", "Keep your favorite plants in one place", R.drawable.appintrologo, getResources().getColor(R.color.appintorbackgroundcolor1), getResources().getColor(R.color.appintrotextcolor1), getResources().getColor(R.color.appintrotextcolor1)));
-        addSlide(AppIntroFragment.newInstance("Explore", "Explore plants and useful information about them", R.drawable.appintrologo, getResources().getColor(R.color.appintorbackgroundcolor1), getResources().getColor(R.color.appintrotextcolor1), getResources().getColor(R.color.appintrotextcolor1)));
-        addSlide(AppIntroFragment.newInstance("Discover", "Discover completely new types of plants", R.drawable.appintrologo, getResources().getColor(R.color.appintorbackgroundcolor1), getResources().getColor(R.color.appintrotextcolor1), getResources().getColor(R.color.appintrotextcolor1)));
+        addSlide(AppIntroFragment.newInstance("", "", R.drawable.fitnessappintroicon, getResources().getColor(R.color.appintorbackgroundcolor1), getResources().getColor(R.color.appintrotextcolor1), getResources().getColor(R.color.appintrotextcolor1)));
+        addSlide(AppIntroFragment.newInstance("", "", R.drawable.fitnessappintroicon, getResources().getColor(R.color.appintorbackgroundcolor1), getResources().getColor(R.color.appintrotextcolor1), getResources().getColor(R.color.appintrotextcolor1)));
+        addSlide(AppIntroFragment.newInstance("", "", R.drawable.fitnessappintroicon, getResources().getColor(R.color.appintorbackgroundcolor1), getResources().getColor(R.color.appintrotextcolor1), getResources().getColor(R.color.appintrotextcolor1)));
+        addSlide(AppIntroFragment.newInstance("", "", R.drawable.fitnessappintroicon, getResources().getColor(R.color.appintorbackgroundcolor1), getResources().getColor(R.color.appintrotextcolor1), getResources().getColor(R.color.appintrotextcolor1)));
+        addSlide(AppIntroFragment.newInstance("", "", R.drawable.fitnessappintroicon, getResources().getColor(R.color.appintorbackgroundcolor1), getResources().getColor(R.color.appintrotextcolor1), getResources().getColor(R.color.appintrotextcolor1)));
 
         setIndicatorColor(getResources().getColor(R.color.indicatorcolor1), getResources().getColor(R.color.indicatorcolor2));
 

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FotoPlant</string>
+    <string name="app_name">Fitland</string>
     <string name="suggestions_text">Suggestions</string>
     <string name="suggestions_description_text">Here you can write your opinions and suggestions about our application</string>
     <string name="suggesttions_edit_text_hint_text">Write your opinions and suggestions about our application…</string>
