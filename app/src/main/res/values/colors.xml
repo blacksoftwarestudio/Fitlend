@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="statusbarbackgroundcolor1">#FFFFFF</color>
+    <color name="toolbarcolor1">#FFFFFF</color>
+    <color name="toolbarcolor2">#EEEEEE</color>
+    <color name="appintorbackgroundcolor1">#FFFFFF</color>
+    <color name="appintrotextcolor1">#348C31</color>
+    <color name="indicatorcolor1">#348C31</color>
+    <color name="indicatorcolor2">#F8FFB5</color>
+</resources>
